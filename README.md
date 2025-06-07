@@ -10,7 +10,7 @@
   <li>🎉 <strong>Community Engagement</strong>: Participate in events, polls, and showcase contributions.</li>
   <li>🛡️ <strong>Moderation Utilities</strong>: Manage messages, warnings, and user roles.</li>
   <li>🔐 <strong>Admin Controls</strong>: Execute shutdowns, restarts, and deployments securely.</li>
-  <li>🤖 <strong>AI Integration</strong>: Utilize OpenAI for code optimization and idea generation.</li>
+  <li>🤖 <strong>AI Integration</strong>: Utilize Ollama for code optimization and idea generation.</li>
 </ul>
 
 <h2>🚀 Getting Started</h2>
