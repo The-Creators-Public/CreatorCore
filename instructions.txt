@@ -52,3 +52,41 @@
 - Crafting recipes mocked or optionally pulled from JEI-like API
 
 ---
+
+# 🛠️ The-Creators-Public
+
+**The-Creators-Public** is a community-driven GitHub organization dedicated to crafting innovative, high-quality mods and tools for the Minecraft Fabric ecosystem—and beyond. Our mission is to empower creators, foster collaboration, and push the boundaries of what's possible in open-source game modding.
+
+---
+
+## 🚀 Mission
+
+- **Innovation**: Design and develop fresh, engaging gameplay mechanics and systems.
+- **Collaboration**: Build an inclusive community where modders, developers, and designers can share ideas, provide feedback, and contribute code.
+- **Quality**: Maintain clean, well-documented codebases with clear contribution guidelines and a robust review process.
+- **Growth**: Expand our library of projects over time—embracing everything from small utilities to large-scale, lore-driven experiences.
+
+---
+
+## 📂 Projects
+
+### 🌟 [The-Eternum-Bastion-Fabric](https://github.com/The-Creators-Public/The-Eternum-Bastion-Fabric)
+
+A dynamic multiblock Minecraft mod built for the Fabric loader, featuring:
+
+- **Dynamic Multiblock Structures**: Craft and interact with custom bastion blocks that come alive in your world.
+- **Lore Book Integration**: Immerse yourself in an in-game lore compendium with categorized entries and planned interactive visuals.
+- **Modular Architecture**: Easily extend and customize to add new blocks, textures, and lore.
+
+_Status_: Active development  
+_Languages_: Java  
+_License_: CC BY-NC-SA 4.0
+
+---
+
+## 🌐 Links
+
+- [GitHub Organization](https://github.com/The-Creators-Public)
+- [The-Eternum-Bastion-Fabric Repository](https://github.com/The-Creators-Public/The-Eternum-Bastion-Fabric)
+
+Crafted with ❤️ by the Creators Public community.

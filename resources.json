@@ -1,0 +1,12 @@
+{
+  "tutorials": {
+    "building": "https://example.com/building-tutorials",
+    "modding": "https://example.com/modding-tutorials",
+    "coding": "https://example.com/coding-tutorials"
+  },
+  "biomes": {
+    "forest": "Lush green forest with diverse wildlife.",
+    "desert": "Hot and dry with sand dunes.",
+    "tundra": "Cold and snowy with sparse vegetation."
+  }
+}

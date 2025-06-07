@@ -47,5 +47,5 @@ Full license text: https://creativecommons.org/licenses/by-nc-sa/4.0/
 Summary
 ============================
 
-- Use the **MIT License** applies to source code (`.py`, `.json`, `.yml`, etc.)
-- The **CC BY-NC-SA 4.0 License** applies to all creative content (e.g., bot persona, prompts, dialogue, documentation, logos, and descriptions).
+- **MIT License** applies to source code (`.py`, `.json`, `.yml`, etc.)
+- **CC BY-NC-SA 4.0 License** applies to all creative content (e.g., bot persona, prompts, dialogue, documentation, logos, and descriptions).
